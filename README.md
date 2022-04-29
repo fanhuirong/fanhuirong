@@ -1,8 +1,9 @@
-<h3 align="left">Hi 👋, I'm kunkun</h1>
-<h4 align="left">A frontend developer from China</h3>
+<h3 align="left">Hi 👋, I'm kunkun</h3>
+
+A frontend developer from China.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="28" height="28"/> </a> 
