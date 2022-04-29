@@ -13,3 +13,7 @@ A frontend developer from China.
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="28" height="28"/> </a> 
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="28" height="28"/> </a> 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanhuirong&show_icons=true&locale=en&layout=compact" alt="fanhuirong" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanhuirong&show_icons=true&locale=en" alt="fanhuirong" /></p>
