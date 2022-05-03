@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm kunkun</h3>
+<h3 align="left">Hi 👋, I'm Huirong，my friends usually call me Kunkun</h3>
 
 A frontend developer from China.
 
